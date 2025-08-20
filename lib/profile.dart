@@ -6,7 +6,7 @@ class Profile extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("profile page"),
-        centerTitle: true,
+        centerTitle: false,
       ),
     );
   }
